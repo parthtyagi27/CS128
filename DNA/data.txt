@@ -1,0 +1,4 @@
+names,AGAT,AATG,TATC,
+Alice,3,6,6,
+Bob,9,6,6,
+Charlie,5,3,8,
